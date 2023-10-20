@@ -1,0 +1,19 @@
+h1 {
+    display: flex;
+    color: blueviolet;
+
+}
+div{
+    width: 250;
+    border: 15cm;
+    padding: 25px;
+    margin: 10px;
+
+    
+}
+img{
+    text-align: right;
+}
+
+
+ 
